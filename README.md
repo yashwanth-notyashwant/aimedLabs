@@ -1,4 +1,4 @@
-# aimedlabs
+# Aimedlabs
 
 A new Flutter project.
 
